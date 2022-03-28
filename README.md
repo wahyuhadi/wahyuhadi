@@ -62,4 +62,6 @@ PT GITS Indonesia is a Google Certified Agency who has been active in IT Industr
 
 &nbsp;
 # Contact Person
-hrahmatwahyu@gmail.com  +6285205039835
+#### Email          : hrahmatwahyu@gmail.com  
+#### Telegram / WA  : +6285205039835
+#### Linkedin       : https://www.linkedin.com/in/rahmat-wahyu-hadi-80a868103/

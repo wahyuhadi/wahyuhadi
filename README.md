@@ -1,5 +1,7 @@
 # Rahmat Wahyu Hadi
 
+
+
 &nbsp;
 
 # Personal Profile
@@ -13,7 +15,15 @@ related to general fuzzer, design fuzzer payload pattern etc. and sometime build
 &nbsp;
 
 # Professional Work Experience
-**Telkomsel: PT Telekomunikasi Selular (4 Januari 2021 - Now)**
+<h1 align="Center">
+  <br>
+  <a href="https://www.telkomsel.co.id"><img src="https://www.telkomsel.com/sites/default/files/mainlogo-2022-rev.png" width="150px" alt="Telkomsel"></a> 
+  &nbsp;
+
+  PT Telekomunikasi Selular (4 Januari 2021 - Now)
+
+</h1>
+
 
 PT Telekomunikasi Selular is an Indonesian wireless network provider founded in 1995 and is owned by Telkom Indonesia and Singtel. It is headquartered in South Jakarta. Telkomsel is the largest wireless carrier in the country with 169.5 million customer base as of 2020.
 #### Role : Officer Offensive Security
@@ -25,10 +35,20 @@ PT Telekomunikasi Selular is an Indonesian wireless network provider founded in 
 * Manage 3rd party Vendor and Tools
 * Investigation of malicious activity on internal premise infrastructure
 
+&nbsp;
 
 &nbsp;
 
-**Tiket.com: PT. Global Tiket Network (April 2019 - Dec 2020)**
+&nbsp;
+<h1 align="Center">
+  <br>
+  <a href="https://tiket.com"><img src="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/logo/2020/09/01/7379dfd8-c9cc-4fb9-896f-6374a766cefc-1598927204969-fab786a46eee63c306f89837093520a4.png" width="150px" alt="Tiket.com"></a> 
+  &nbsp;
+
+  PT. Global Tiket Network (April 2019 - Dec 2020)
+
+</h1>
+
 
 PT Global Tiket Network is an online travel booking website based in Indonesia.
 
@@ -47,7 +67,19 @@ PT Global Tiket Network is an online travel booking website based in Indonesia.
 
 &nbsp;
 
-**GITS: PT GITS Indonesia (Agust 2016 - April 2019)**
+&nbsp;
+
+&nbsp;
+<h1 align="Center">
+  <br>
+  <a href="https://gits.id"><img src="https://gits.id/wp-content/uploads/2020/09/Logo-Main.png" width="150px" alt="Gits"></a> 
+  &nbsp;
+
+ PT GITS Indonesia (Agust 2016 - April 2019)
+
+</h1>
+
+
 
 PT GITS Indonesia is a Google Certified Agency who has been active in IT Industry since 2010. Since then, we have developed a lot of applications, both initiative projects and client requests. We are familiar with desktop, website, and mobile programming..
 

@@ -35,11 +35,10 @@ PT Telekomunikasi Selular is an Indonesian wireless network provider founded in 
 * Manage 3rd party Vendor and Tools
 * Investigation of malicious activity on internal premise infrastructure
 
-&nbsp;
+
 
 &nbsp;
 
-&nbsp;
 <h1 align="Center">
   <br>
   <a href="https://tiket.com"><img src="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/original/logo/2020/09/01/7379dfd8-c9cc-4fb9-896f-6374a766cefc-1598927204969-fab786a46eee63c306f89837093520a4.png" width="150px" alt="Tiket.com"></a> 
@@ -64,10 +63,6 @@ PT Global Tiket Network is an online travel booking website based in Indonesia.
 * Deliver security awareness to Tiket new employees in terms of following compliances
 * Develop Github Monitoring to prevent code and credential leaks in public (gitmon)
 
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 <h1 align="Center">
